@@ -19,7 +19,7 @@
     "bluebird": "~3.5.0"
   },
   "author": "KiraChen",
-  "license": "MIT license (MIT)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/kirachen1991/simpleHttp/issues"
   },
