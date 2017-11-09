@@ -1,0 +1,27 @@
+{
+  "name": "simplehttp",
+  "version": "1.0.0",
+  "description": "node http/https tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirachen1991/simpleHttp.git"
+  },
+  "keywords": [
+    "http",
+    "request",
+    "https"
+  ],
+  "dependencies": {
+    "bluebird": "~3.5.0"
+  },
+  "author": "KiraChen",
+  "license": "MIT license (MIT)",
+  "bugs": {
+    "url": "https://github.com/kirachen1991/simpleHttp/issues"
+  },
+  "homepage": "https://github.com/kirachen1991/simpleHttp#readme"
+}
