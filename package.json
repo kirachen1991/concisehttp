@@ -1,5 +1,5 @@
 {
-  "name": "simplehttp",
+  "name": "concisehttp",
   "version": "1.0.0",
   "description": "node http/https tool",
   "main": "index.js",
